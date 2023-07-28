@@ -1,0 +1,64 @@
+{
+	"id": -1,
+	"name": "Talullah",
+	"description": "A QSMP egg made specifically for Wilbur Soot (The head above). She loves to play music just like her father. Currently in the care of Uncle Philza.",
+	"links": {
+		"subreddit": [
+			"QSMP"
+		]
+	},
+	"path": {
+		"89-250": [
+			[
+				399,
+				428
+			],
+			[
+				396,
+				428
+			],
+			[
+				394,
+				430
+			],
+			[
+				394,
+				435
+			],
+			[
+				396,
+				437
+			],
+			[
+				399,
+				437
+			],
+			[
+				402,
+				434
+			],
+			[
+				402,
+				433
+			],
+			[
+				401,
+				432
+			],
+			[
+				401,
+				430
+			],
+			[
+				399,
+				428
+			]
+		]
+	},
+	"center": {
+		"89-250": [
+			398,
+			433
+		]
+	}
+}
